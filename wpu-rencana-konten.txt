@@ -6,5 +6,7 @@ Rencana belajar wpu
 - Javascript
  * ES6
  * Framework Javascript
-- mager
-- rebahan
+- Struktur data dasar
+- PHP Framework
+  ^ Laravel
+- Interview
