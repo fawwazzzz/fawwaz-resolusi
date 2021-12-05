@@ -1,7 +1,8 @@
 Rencana belajar wpu
 
--phew
-* fiuh
-*haah~
--mager
--rebahan
+- phew
+  * fiuh
+  * haah~
+- pfft 
+- mager
+- rebahan
