@@ -3,6 +3,8 @@ Rencana belajar wpu
 - phew
   * fiuh
   * haah~
-- pfft 
+- Javascript
+ * ES6
+ * Framework Javascript
 - mager
 - rebahan
