@@ -2,11 +2,11 @@ Rencana belajar wpu
 
 - phew
   * fiuh
-  * haah~
+  * haah~  
 - Javascript
  * ES6
  * Framework Javascript
 - Struktur data dasar
 - PHP Framework
-  ^ Laravel
+
 - Interview
