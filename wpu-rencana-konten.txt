@@ -6,7 +6,10 @@ Rencana belajar wpu
 - Javascript
  * ES6
  * Framework Javascript
+  ^ Vue
+  ^ React
 - Struktur data dasar
 - PHP Framework
-
+ ^ Laravel
 - Interview
+- python
